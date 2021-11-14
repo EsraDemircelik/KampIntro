@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\KampIntro\GamerProject\obj\Debug\netcoreapp3.1\GamerProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\KampIntro\GamerProject\obj\Debug\netcoreapp3.1\GamerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\KampIntro\GamerProject\obj\Debug\netcoreapp3.1\GamerProject.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\KampIntro\GamerProject\obj\Debug\netcoreapp3.1\GamerProject.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\KampIntro\GamerProject\obj\Debug\netcoreapp3.1\GamerProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KampIntro\GamerProject\bin\Debug\netcoreapp3.1\GamerProject.exe
+C:\Users\ASUS\source\repos\KampIntro\GamerProject\bin\Debug\netcoreapp3.1\GamerProject.deps.json
+C:\Users\ASUS\source\repos\KampIntro\GamerProject\bin\Debug\netcoreapp3.1\GamerProject.runtimeconfig.json
+C:\Users\ASUS\source\repos\KampIntro\GamerProject\bin\Debug\netcoreapp3.1\GamerProject.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\KampIntro\GamerProject\bin\Debug\netcoreapp3.1\GamerProject.dll
+C:\Users\ASUS\source\repos\KampIntro\GamerProject\bin\Debug\netcoreapp3.1\GamerProject.pdb
+C:\Users\ASUS\source\repos\KampIntro\GamerProject\obj\Debug\netcoreapp3.1\GamerProject.dll
+C:\Users\ASUS\source\repos\KampIntro\GamerProject\obj\Debug\netcoreapp3.1\GamerProject.pdb
+C:\Users\ASUS\source\repos\KampIntro\GamerProject\obj\Debug\netcoreapp3.1\GamerProject.genruntimeconfig.cache
